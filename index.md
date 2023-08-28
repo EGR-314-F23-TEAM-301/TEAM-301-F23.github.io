@@ -10,7 +10,7 @@ Fall 2023
 Team Members
 
 * Samuel Barnett
-* Jaden Nahoi-Baricar (team 301)
+* Jaden Nahoi-Baricar 
 * Sivanee Naghichetty Premkumar
 * Houyu Zhang
 * Amy Joyce C. Valencia
