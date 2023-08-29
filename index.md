@@ -12,6 +12,6 @@ Team Members
 * Amy Joyce C. Valencia edit: 10:18pm
 * Samuel Barnett
 * Jaden Nahoi-Baricar 
-* Sivanee Naghichetty Premkumar
+* Sivanee Naghichetty Premkumar edit: 11:35pm
 * Houyu Zhang
 
