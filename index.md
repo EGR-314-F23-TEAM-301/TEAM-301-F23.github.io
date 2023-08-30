@@ -1,3 +1,3 @@
-# [1. Team Organization](Team-Organization.md)
+# [1. Team Organization](Team_Organization.md)
 
 
