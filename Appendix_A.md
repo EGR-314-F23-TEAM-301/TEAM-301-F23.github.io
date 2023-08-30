@@ -18,31 +18,76 @@ environmental serial sensors to benefit the consumer.
 *Table 1: Team Member Communication Modes*
 
 
-| **Name**        | **1st Form of   | **2nd Form of   | **3rd Form of   |
-|                 | Communication** | Communication** | Communication** |
-|-----------------|-----------------|-----------------|-----------------|
-| Samuel Barnett  | Phone:          | Discord:        | Email:          |
-|                 | 602-568-0670    | Axolotl_Cactus  | s               |
-|                 |                 |                 | barne34@asu.edu |
-|-----------------|-----------------|-----------------|-----------------|
-| Jaden           | Phone:          | Email:          | Discord:        |
-| Nahoi-Baricar   | 808-292-7413    |                 | jaden_nahoi     |
-|                 |                 | j               |                 |
-|                 |                 | nahoiba@asu.edu |                 |
-|-----------------|-----------------|-----------------|-----------------|
-| Sivanee         | Phone:          | Messenger       | Discord:        |
-| Naghichetty     | 302-310-0335    |                 | sivanee         |
-| Premkumar       |                 |                 |                 |
-|-----------------|-----------------|-----------------|-----------------|
-| Houyu Zhang     | Phone:          | Email:          | Discord:        |
-|                 | 480-548-9423    | h               | alpaca_z        |
-|                 |                 | zhan322@asu.edu |                 |
-|-----------------|-----------------|-----------------|-----------------|
-| Amy Valencia    | Phone:          | Discord:        | Email:          |
-|                 |                 |                 |                 |
-|                 | 808-542-8065    | Amyjcv          | a               |
-|                 |                 |                 | cvalen9@asu.edu |
-|-----------------|-----------------|-----------------|-----------------|
+<table>
+  <tr>
+   <td><strong>Name</strong>
+   </td>
+   <td><strong>1st Form of Communication</strong>
+   </td>
+   <td><strong>2nd Form of Communication</strong>
+   </td>
+   <td><strong>3rd Form of Communication</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Samuel Barnett
+   </td>
+   <td>Phone: 602-568-0670
+   </td>
+   <td>Discord: Axolotl_Cactus
+   </td>
+   <td>Email: sbarne34@asu.edu
+   </td>
+  </tr>
+  <tr>
+   <td>Jaden Nahoi-Baricar
+   </td>
+   <td>Phone: 808-292-7413
+   </td>
+   <td>Email:
+<p>
+jnahoiba@asu.edu
+   </td>
+   <td>Discord: jaden_nahoi
+   </td>
+  </tr>
+  <tr>
+   <td>Sivanee Naghichetty Premkumar
+   </td>
+   <td>Phone: 302-310-0335
+   </td>
+   <td>Messenger
+   </td>
+   <td>Discord: sivanee
+   </td>
+  </tr>
+  <tr>
+   <td>Houyu Zhang
+   </td>
+   <td>Phone: 480-548-9423
+   </td>
+   <td>Email: hzhan322@asu.edu
+   </td>
+   <td>Discord: alpaca_z
+   </td>
+  </tr>
+  <tr>
+   <td>Amy Valencia
+   </td>
+   <td>Phone:
+<p>
+808-542-8065
+   </td>
+   <td>Discord:
+<p>
+Amyjcv
+   </td>
+   <td>Email:
+<p>
+acvalen9@asu.edu
+   </td>
+  </tr>
+</table>
 
 **Communication Procedures**
 
