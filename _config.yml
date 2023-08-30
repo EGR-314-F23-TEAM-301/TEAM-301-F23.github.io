@@ -1,6 +1,4 @@
+theme: jekyll-theme-minimal
 title: "Product Name"
 description: EGR 314 Team 301 - Amy Joyce C. Valencia, Samuel Barnett, Jaden Nahoi-Baricar, Houyu Zhang
-remote_theme: niklasbuschmann/contrast@v2.11
 
-plugins:
-  - jekyll-remote-theme
