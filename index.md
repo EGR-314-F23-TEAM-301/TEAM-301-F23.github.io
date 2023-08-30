@@ -7,6 +7,8 @@
 * ## 2.2 Product Requirements Document
 
 # [3.0 Design Ideation](Design_Ideation.md)
+* ## 3.1 Brainstorming
+* ## 3.2 Ranking
 
 
 
