@@ -16,9 +16,7 @@ Team 301
 1.  [Yoolax Motorized Blind Shade for Window with Remote
     > Control]{.underline}
 
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image2.png){width="4.198565179352581in"
-height="4.230778652668416in"}
-
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image2.png) <br>
 Price: \$139.00
 
 Vendor: Yoolax
@@ -40,93 +38,15 @@ Motor can directly work with apple devices.
 
 Positive Comments
 
-+-----------------------------------+-----------------------------------+
 | Consumer Voice                    | Restated Customer Need            |
-+===================================+===================================+
-| -   "We bought this custom shade  | -   Product installation catered  |
-|     > because during the summer,  |     > to customer's installation  |
-|     > the heat and light coming   |     > ability. (explicit)         |
-|     > through this very tall      |                                   |
-|     > arched window in our foyer  | -   Product came with all         |
-|     > was unbearable. Our         |     > features. (explicit)        |
-|     > upstairs landing was        |                                   |
-|     > staying very hot all day.   | -   Product is visually appealing |
-|     > This has been perfect so    |     > (explicit)                  |
-|     > far. The temperature        |                                   |
-|     > difference in our house has | -   Customer service is quick and |
-|     > changed drastically. This   |     > helpful (latent)            |
-|     > color is Jacquard Coffee    |                                   |
-|     > and we have cream trim on   | -   Overall pleasant experience   |
-|     > all our moldings and it     |     > handling and setting up     |
-|     > goes perfectly. The other   |     > device (latent)             |
-|     > side that faces the outside |                                   |
-|     > is white."                  |                                   |
-|                                   |                                   |
-| -   "So easy to install and it    |                                   |
-|     > works great. Consumer       |                                   |
-|     > service contacted me within |                                   |
-|     > 24 hours when I had a       |                                   |
-|     > question."                  |                                   |
-|                                   |                                   |
-| -   "Really nice blinds. Install  |                                   |
-|     > was really simple and they  |                                   |
-|     > look great installed. I     |                                   |
-|     > will say the motor is a bit |                                   |
-|     > loud, but it is not         |                                   |
-|     > unreasonable and I don\'t   |                                   |
-|     > think it\'s a big deal.     |                                   |
-|     > Shipping was unbelievably   |                                   |
-|     > fast."                      |                                   |
-+-----------------------------------+-----------------------------------+
+------------------------------------|-----------------------------------|
+| - “We bought this custom shade because during the summer, the heat and light coming through this very tall arched window in our foyer was unbearable. Our upstairs landing was staying very hot all day. This has been perfect so far. The temperature difference in our house has changed drastically. This color is Jacquard Coffee and we have cream trim on all our moldings and it goes perfectly. The other side that faces the outside is white.” <br>  - "So easy to install and it works great. Consumer service contacted me within 24 hours when I had a question.” <br> - “Really nice blinds. Install was really simple and they look great installed. I will say the motor is a bit loud, but it is not unreasonable and I don't think it's a big deal. Shipping was unbelievably fast.” | -Product came with all features. (explicit) <br> - Product installation catered to customer’s installation ability. (explicit) <br> - Product came with all features. (explicit) <br> - Product is visually appealing (explicit) <br> - Customer service is quick and helpful (latent) <br> - Overall pleasant experience handling and setting up device (latent) |
 
 Negative Comments
 
-+----------------------------------+-----------------------------------+
 | Consumer Voice                   | Restated Customer Need            |
-+==================================+===================================+
-| -   "They look quite fragile and | -   Product did not cater to      |
-|     > much less appealing than   |     > customers\' technological   |
-|     > in the product picture on  |     > compatibility (explicit)    |
-|     > Amazon web page. Blinds    |                                   |
-|     > came without any           | -   Product is robust and         |
-|     > installation instructions. |     > visually appealing          |
-|     > If, like I did, installed  |     > (explicit)                  |
-|     > the blinds inside the      |                                   |
-|     > window frame - removing    | -   App used for remote access is |
-|     > them is super difficult.   |     > useful and user friendly    |
-|     > One of the USB cables (1   |     > (explicit)                  |
-|     > out of 5) was damaged and  |                                   |
-|     > cant be used."             | -   Clear and easy to follow      |
-|                                  |     > instructions(explicit)      |
-| -   "Connecting the hub to our   |                                   |
-|     > 2.4/5G network was super   |                                   |
-|     > difficult. Device can\'t   |                                   |
-|     > connect to combined 2.4/5G |                                   |
-|     > Wifi, rather it needs a    |                                   |
-|     > dedicated 2.4G network.    |                                   |
-|     > After several hours        |                                   |
-|     > configuring my WiFi, I got |                                   |
-|     > the hub connected. But     |                                   |
-|     > that turned out to be a    |                                   |
-|     > waste of time. The app is  |                                   |
-|     > done for old iOS devices.  |                                   |
-|     > App itself doesn\'t add    |                                   |
-|     > any value to the standard  |                                   |
-|     > remote we ordered as well. |                                   |
-|     > Mechanically the WiFi hub  |                                   |
-|     > feels like a 99 cent cheap |                                   |
-|     > piece of plastic and is    |                                   |
-|     > ugly."                     |                                   |
-|                                  |                                   |
-| -   "Don\'t let the customizable |                                   |
-|     > ordering fool you into     |                                   |
-|     > believing you\'re paying   |                                   |
-|     > for quality. The blinds    |                                   |
-|     > will arrive and be         |                                   |
-|     > impossible to program into |                                   |
-|     > alexa or their app. The    |                                   |
-|     > instructions are unclear." |                                   |
-+----------------------------------+-----------------------------------+
+|----------------------------------|-----------------------------------|
+| - “They look quite fragile and much less appealing than in the product picture on Amazon web page. Blinds came without any installation instructions. If, like I did, installed the blinds inside the window frame - removing them is super difficult. One of the USB cables (1 out of 5) was damaged and cant be used.” <br> - “Connecting the hub to our 2.4/5G network was super difficult. Device can't connect to combined 2.4/5G Wifi, rather it needs a dedicated 2.4G network. After several hours configuring my WiFi, I got the hub connected. But that turned out to be a waste of time. The app is done for old iOS devices. App itself doesn't add any value to the standard remote we ordered as well. Mechanically the WiFi hub feels like a 99 cent cheap piece of plastic and is ugly.” <br> - “Don't let the customizable ordering fool you into believing you're paying for quality. The blinds will arrive and be impossible to program into alexa or their app. The instructions are unclear.” | - Product did not cater to customers'technological compatibility (explicit) <br> - Product is robust and visually appealing (explicit) <br> - App used for remote access is useful and user friendly (explicit) <br> - Clear and easy to follow instructions(explicit) |
 
 **Search #2**
 
@@ -137,11 +57,9 @@ Negative Comments
 
 **Selected Product**
 
-2.  [RAINPOINT WiFi Automatic Watering System For Indoor Potted
-    > Plants]{.underline}
+2.  [RAINPOINT WiFi Automatic Watering System For Indoor Potted Plants]{.underline}
 
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image4.jpg){width="4.161458880139983in"
-height="3.7924617235345583in"}
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image4.jpg) <br>
 
 Price: \$54.99
 
@@ -156,116 +74,15 @@ multi-schedules to prevent watering-off or overwatering.
 
 Positive Comments
 
-+-----------------------------------+-----------------------------------+
 | Consumer Voice                    | Restated Customer Need            |
-+===================================+===================================+
-| -   "Note that Manual operation   | -   Intuitive and simplistic user |
-|     > time is controlled by the   |     > interface on app(explicit)  |
-|     > \"How Long\" setting in     |                                   |
-|     > Program operation. If you   | -   The ability to remotely       |
-|     > need to run the pump for    |     > monitor the product         |
-|     > less time than this         |     > (explicit)                  |
-|     > setting, you tap the pump   |                                   |
-|     > button to start it, and tap | -   Easy set up - though had to   |
-|     > again when you want it to   |     > get assistance (explicit)   |
-|     > stop. If you try to run it  |                                   |
-|     > longer than the Program     |                                   |
-|     > operation setting, it will  |                                   |
-|     > shut off after the          |                                   |
-|     > Programmed operation\'s     |                                   |
-|     > setting, and you will have  |                                   |
-|     > to tap it again to resume   |                                   |
-|     > pumping."                   |                                   |
-|                                   |                                   |
-| -   "I could either set it and    |                                   |
-|     > forget it with a predefined |                                   |
-|     > schedule, or monitor it     |                                   |
-|     > remotely, even triggering   |                                   |
-|     > extra watering on demand if |                                   |
-|     > needed. Powered by USB      |                                   |
-|     > and/or Batteries (to        |                                   |
-|     > address power outages), the |                                   |
-|     > system will automatically   |                                   |
-|     > switch to the appropriate   |                                   |
-|     > power source."              |                                   |
-|                                   |                                   |
-| -   "Very easy to set up. I       |                                   |
-|     > initially had an issue (my  |                                   |
-|     > fault completely) and had   |                                   |
-|     > to contact customer         |                                   |
-|     > service. They got me up and |                                   |
-|     > running very quickly. Make  |                                   |
-|     > my life so much easier      |                                   |
-|     > because I cannot remember   |                                   |
-|     > to water my house plants.   |                                   |
-|     > That are all thriving due   |                                   |
-|     > to this machine."           |                                   |
-+-----------------------------------+-----------------------------------+
+|-----------------------------------|-----------------------------------|
+| - “Note that Manual operation time is controlled by the "How Long" setting in Program operation. If you need to run the pump for less time than this setting, you tap the pump button to start it, and tap again when you want it to stop. If you try to run it longer than the Program operation setting, it will shut off after the Programmed operation's setting, and you will have to tap it again to resume pumping.” <br> - I could either set it and forget it with a predefined schedule, or monitor it remotely, even triggering extra watering on demand if needed. Powered by USB and/or Batteries (to address power outages), the system will automatically switch to the appropriate power source.” <br> - “Very easy to set up. I initially had an issue (my fault completely) and had to contact customer service. They got me up and running very quickly. Make my life so much easier because I cannot remember to water my house plants. That are all thriving due to this machine.” | - Intuitive and simplistic user interface on app(explicit) <br> - The ability to remotely monitor the product (explicit) <br> - Easy set up - though had to get assistance (explicit) | 
 
 Negative Comments
 
-+----------------------------------+-----------------------------------+
 | Consumer Voice                   | Restated Customer Need            |
-+==================================+===================================+
-| -   "I set it for 5 min every 24 | -   Clear and concise user        |
-|     > hours and woke up and it   |     > interface (explicit)        |
-|     > dumped 13 gallons of water |                                   |
-|     > into my three plants in my | -   Clear setup instructions with |
-|     > grow tent let's just say I |     > high quality visual aids    |
-|     > wasn't expecting this.     |     > (explicit)                  |
-|     > When the pump shuts off it |                                   |
-|     > continues to pull water    | -   Status lights are easy to     |
-|     > and doesn't stop this is   |     > interpret (explicit)        |
-|     > after a lot of testing     |                                   |
-|     > there is no automatic shut | -   Ease of use (latent)          |
-|     > off valve to stop the flow |                                   |
-|     > once the pump starts it"   |                                   |
-|                                  |                                   |
-| ```{=html}                       |                                   |
-| <!-- -->                         |                                   |
-| ```                              |                                   |
-| -   "The app has step-by-step    |                                   |
-|     > instructions on how to set |                                   |
-|     > up the WiFi connection,    |                                   |
-|     > but they are difficult to  |                                   |
-|     > understand. It is not      |                                   |
-|     > clear if batteries need to |                                   |
-|     > be installed or not, or if |                                   |
-|     > it will work either way.   |                                   |
-|     > The instructions are       |                                   |
-|     > written in an illogical    |                                   |
-|     > way. I had to make 4       |                                   |
-|     > attempts at pairing the    |                                   |
-|     > unit before it finally     |                                   |
-|     > succeeded, and I have no   |                                   |
-|     > idea why it finally        |                                   |
-|     > succeeded, especially      |                                   |
-|     > since it did not switch    |                                   |
-|     > between rapid and slow     |                                   |
-|     > blinks, as the             |                                   |
-|     > instructions stated it     |                                   |
-|     > would. During some of the  |                                   |
-|     > attempts it had asked me   |                                   |
-|     > to pair my phone to a      |                                   |
-|     > \"smart\...\" WiFi         |                                   |
-|     > network, which I never     |                                   |
-|     > saw, while during the      |                                   |
-|     > final attempt it did not   |                                   |
-|     > ask me to do this."        |                                   |
-|                                  |                                   |
-| -   "The single-color left LED   |                                   |
-|     > can communicate 5          |                                   |
-|     > different messages,        |                                   |
-|     > depending on how it        |                                   |
-|     > blinks. This makes for a   |                                   |
-|     > very cryptic user          |                                   |
-|     > interface, especially      |                                   |
-|     > since there is not even a  |                                   |
-|     > blink guide next to the    |                                   |
-|     > LED. There really should   |                                   |
-|     > be a separate LED for      |                                   |
-|     > battery status."           |                                   |
-+----------------------------------+-----------------------------------+
+|----------------------------------|-----------------------------------|
+| - “I set it for 5 min every 24 hours and woke up and it dumped 13 gallons of water into my three plants in my grow tent. Let's just say I wasn’t expecting this. When the pump shuts off it continues to pull water and doesn’t stop this is after a lot of testing there is no automatic shut off valve to stop the flow once the pump starts it” <br> - “The app has step-by-step instructions on how to set up the WiFi connection, but they are difficult to understand. It is not clear if batteries need to be installed or not, or if it will work either way. The instructions are written in an illogical way. I had to make 4 attempts at pairing the unit before it finally succeeded, and I have no idea why it finally succeeded, especially since it did not switch between rapid and slow blinks, as the instructions stated it would. During some of the attempts it had asked me to pair my phone to a "smart..." WiFi network, which I never saw, while during the final attempt it did not ask me to do this.” <br> - “The single-color left LED can communicate 5 different messages, depending on how it blinks. This makes for a very cryptic user interface, especially since there is not even a blink guide next to the LED. There really should be a separate LED for battery status.” | - Clear and concise user interface (explicit) <br> - Clear setup instructions with high quality visual aids (explicit) <br> - Status lights are easy to interpret (explicit) <br> - Ease of use (latent) | 
 
 **Search #3**
 
@@ -278,8 +95,7 @@ Negative Comments
 
 3.  [Govee WiFi Thermometer Hygrometer]{.underline}
 
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image7.png){width="2.932292213473316in"
-height="3.378510498687664in"}
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image7.png)<br>
 
 Price: \$39.99
 
@@ -292,58 +108,9 @@ send notifications when levels are out of range.
 
 Positive Comments
 
-+-----------------------------------+-----------------------------------+
 | Consumer Voice                    | Restated Customer Need            |
-+===================================+===================================+
-| -   "It's accurate first of all.  | -   Accurate readings (latent)    |
-|     > Used it in two different    |                                   |
-|     > humidors with its own       | -   Easily accessible using phone |
-|     > hygrometer and readings are |     > app (latent)                |
-|     > always on point. Love that  |                                   |
-|     > I can see what the humidity | -   Ability to look at more than  |
-|     > reading is on my phone so I |     > one device at a time        |
-|     > don't have to always check  |     > (explicit)                  |
-|     > my humidors."               |                                   |
-+-----------------------------------+-----------------------------------+
-| -   "I've only had these up for a | -   Easy set up (explicit)        |
-|     > week. I got two of them to  |                                   |
-|     > monitor temperature in two  | -   Ability to export data into   |
-|     > separate work locations in  |     > Excel (explicit)            |
-|     > two different cities. Super |                                   |
-|     > easy to set up and so far   | -   Monitor multiple devices in   |
-|     > work great. I exported data |     > multiple locations through  |
-|     > to Excel with no issues.    |     > app (explicit)              |
-|     > Real quick and easy to do   |                                   |
-|     > so. I use alerts too and    |                                   |
-|     > they alert me every time    |                                   |
-|     > the temperature reaches a   |                                   |
-|     > specific level."            |                                   |
-+-----------------------------------+-----------------------------------+
-| -   "I liked it so much I bought  | -   Long battery life (latent)    |
-|     > another one so that I could |                                   |
-|     > get data on both rooms      | -   Accurate data readings        |
-|     > individually. BTW, I was    |     > (explicit)                  |
-|     > curious to see how closely  |                                   |
-|     > the 2 of them matched when  | -   Ability to specify upload     |
-|     > sitting side by side for a  |     > intervals (explicit)        |
-|     > day - temperature varied at |                                   |
-|     > most .1 to .2 degree,       |                                   |
-|     > humidity .1 to .2 percent.. |                                   |
-|     > I'm very pleased. I ran the |                                   |
-|     > 1st one for 2 months at the |                                   |
-|     > 10 minute upload interval   |                                   |
-|     > for highest accuracy and    |                                   |
-|     > the 1.5V alkaline batteries |                                   |
-|     > had only dropped to 1.47V   |                                   |
-|     > when I got back. So battery |                                   |
-|     > performance is good too -   |                                   |
-|     > I've now configured both    |                                   |
-|     > units to upload at 30       |                                   |
-|     > minute intervals            |                                   |
-|     > simultaneously and I'm      |                                   |
-|     > guessing batteries will go  |                                   |
-|     > at least a year."           |                                   |
-+-----------------------------------+-----------------------------------+
+|-----------------------------------|-----------------------------------|
+
 
 Negative Comments
 
