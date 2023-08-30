@@ -23,7 +23,6 @@ _Table 1: Team Member Communication Modes_
    </td>
    <td><strong>3rd Form of Communication</strong>
    </td>
-  </tr>
   <tr>
    <td>Samuel Barnett
    </td>
@@ -82,7 +81,7 @@ Amyjcv
 acvalen9@asu.edu
    </td>
   </tr>
-
+</table>
 
 
 **Communication Procedures**
