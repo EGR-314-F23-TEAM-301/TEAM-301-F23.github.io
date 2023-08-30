@@ -153,17 +153,6 @@ height="1.2831681977252842in"}
     > will come to a compromise as a whole either in-person or remotely
     > via one of the communication methods that has been established.
 
-**Signatures**
-
-Jaden Nahoi-Baricar
-
-Sivanee Naghichetty Premkumar
-
-[[Samuel Barnett]{.underline}](mailto:sbarne34@asu.edu)
-
-Houyu Zhang
-
-[[Amy Joyce Valencia]{.underline}](mailto:acvalen9@asu.edu)
 
 > [Back to
 > to](https://embedded-systems-design.bitbucket.io/3x4/3x4-team-team-organization/#)
