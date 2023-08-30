@@ -1,17 +1,3 @@
-EGR 314
----
+# [1. Team Organization](Team-Organization.md)
 
-# Team 301
-
-Fall 2023
-
-## Introduction
-
-Team Members
-
-* Amy Joyce C. Valencia edit: 10:18pm
-* Samuel Barnett
-* Jaden Nahoi-Baricar 
-* Sivanee Naghichetty Premkumar edit: 11:35pm
-* Houyu Zhang
 
