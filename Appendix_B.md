@@ -2,19 +2,18 @@
 
 Team 301
 
-**[Existing Commercial Products]{.underline}**
+**[Existing Commercial Products]**
 
 **Search #1**
 
 **Keywords:** Remote Controlled Window Shade
 
 **Search Results Link:**
-[[Link]{.underline}](https://www.amazon.com/Yoolax-Motorized-Compatible-Motorize-Vinyl-Dark/dp/B07GNZ2TYR/ref=sr_1_1_sspa?crid=23NQ9TRMMSTPA&keywords=remote%2Bcontrolled%2Bwindow%2Bshades&qid=1693081238&sprefix=remote%2Bcontrolled%2Bwindo%2Caps%2C146&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+[[Link]](https://www.amazon.com/Yoolax-Motorized-Compatible-Motorize-Vinyl-Dark/dp/B07GNZ2TYR/ref=sr_1_1_sspa?crid=23NQ9TRMMSTPA&keywords=remote%2Bcontrolled%2Bwindow%2Bshades&qid=1693081238&sprefix=remote%2Bcontrolled%2Bwindo%2Caps%2C146&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
 **Selected Product**
 
-1.  [Yoolax Motorized Blind Shade for Window with Remote
-    > Control]{.underline}
+1.  [Yoolax Motorized Blind Shade for Window with RemoteControl]
 
 ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image2.png) <br>
 Price: \$139.00
@@ -53,11 +52,11 @@ Negative Comments
 **Keywords: automatic plant waterer indoor**
 
 **Search Results Link:
-[[Link]{.underline}](https://www.amazon.com/RAINPOINT-Automatic-Watering-Irrigation-Self-Watering/dp/B09GYDBC7Y/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=CZXLO534LZDM&cv_ct_cx=automatic%2Bplant%2Bwaterer%2Bindoor&keywords=automatic%2Bplant%2Bwaterer%2Bindoor&pd_rd_i=B09GYDBC7Y&pd_rd_r=acb6824d-8ffe-43ed-a98f-d0b5684e5d82&pd_rd_w=wgMVH&pd_rd_wg=imqvY&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=NFA941VP5AFZ2R4F4DJA&qid=1693089031&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=automatic%2Bplant%2Bwaterer%2B%2Caps%2C127&sr=1-1-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)**
+[[Link]](https://www.amazon.com/RAINPOINT-Automatic-Watering-Irrigation-Self-Watering/dp/B09GYDBC7Y/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=CZXLO534LZDM&cv_ct_cx=automatic%2Bplant%2Bwaterer%2Bindoor&keywords=automatic%2Bplant%2Bwaterer%2Bindoor&pd_rd_i=B09GYDBC7Y&pd_rd_r=acb6824d-8ffe-43ed-a98f-d0b5684e5d82&pd_rd_w=wgMVH&pd_rd_wg=imqvY&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=NFA941VP5AFZ2R4F4DJA&qid=1693089031&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=automatic%2Bplant%2Bwaterer%2B%2Caps%2C127&sr=1-1-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)**
 
 **Selected Product**
 
-2.  [RAINPOINT WiFi Automatic Watering System For Indoor Potted Plants]{.underline}
+2.  [RAINPOINT WiFi Automatic Watering System For Indoor Potted Plants]
 
 ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image4.jpg) <br>
 
@@ -89,11 +88,11 @@ Negative Comments
 **Keywords: Humidity and temperature sensor**
 
 **Search Results Link:
-[[Link]{.underline}](https://www.amazon.com/Govee-Indoor-Temperature-Humidity-Sensor/dp/B0872ZWV8X/ref=sr_1_1_sspa?crid=1EUHWY8LOND28&keywords=Govee%2BWiFi%2BThermometer%2BHygrometer%2BH5179&qid=1693165539&sprefix=govee%2Bwifi%2Bthermometer%2Bhygrometer%2Bh5179%2Caps%2C157&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)**
+[[Link]](https://www.amazon.com/Govee-Indoor-Temperature-Humidity-Sensor/dp/B0872ZWV8X/ref=sr_1_1_sspa?crid=1EUHWY8LOND28&keywords=Govee%2BWiFi%2BThermometer%2BHygrometer%2BH5179&qid=1693165539&sprefix=govee%2Bwifi%2Bthermometer%2Bhygrometer%2Bh5179%2Caps%2C157&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)**
 
 **Selected Product**
 
-3.  [Govee WiFi Thermometer Hygrometer]{.underline}
+3.  [Govee WiFi Thermometer Hygrometer]
 
 ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image7.png)<br>
 
@@ -110,139 +109,32 @@ Positive Comments
 
 | Consumer Voice                    | Restated Customer Need            |
 |-----------------------------------|-----------------------------------|
-
+| - "“It’s accurate first of all. Used it in two different humidors with its own hygrometer and readings are always on point. Love that I can see what the humidity reading is on my phone so I don’t have to always check my humidors.” | - Accurate readings (latent) <br> - Easily accessible using phone app (latent) <br> - Ability to look at more than one device at a time (explicit) |
+| - “I’ve only had these up for a week. I got two of them to monitor temperature in two separate work locations in two different cities. Super easy to set up and so far work great. I exported data to Excel with no issues. Real quick and easy to do so. I use alerts too and they alert me every time the temperature reaches a specific level.” | - Easy set up (explicit) <br> - Ability to export data into Excel (explicit) <br> - Monitor multiple devices in multiple locations through app (explicit) |
+| - “I liked it so much I bought another one so that I could get data on both rooms individually. BTW, I was curious to see how closely the 2 of them matched when sitting side by side for a day - temperature varied at most .1 to .2 degree, humidity .1 to .2 percent.. I’m very pleased. I ran the 1st one for 2 months at the 10 minute upload interval for highest accuracy and the 1.5V alkaline batteries had only dropped to 1.47V when I got back. So battery performance is good too - I’ve now configured both units to upload at 30 minute intervals simultaneously and I’m guessing batteries will go at least a year.” | - Long battery life (latent) <br> - Accurate data readings (explicit) <br> - Ability to specify upload intervals (explicit) | 
 
 Negative Comments
 
-+----------------------------------+-----------------------------------+
 | Consumer Voice                   | Restated Customer Need            |
-+==================================+===================================+
-| -   " I have had 4 of these      | -   Product data stays accurate   |
-|     > since late last year and   |     > even with consistent use    |
-|     > all 4 are now garbage. I   |     > (latent)                    |
-|     > purchased them for my temp |                                   |
-|     > and permanent greenhouse,  | -   No safety risks (latent)      |
-|     > my dad's greenhouse, and   |                                   |
-|     > to monitor my indoor grow  | -   Strong bluetooth and wifi     |
-|     > room. They work great for  |     > connection (explicit)       |
-|     > the first couple months,   |                                   |
-|     > but much more than that    |                                   |
-|     > they just start reading    |                                   |
-|     > erratic temps, refuse to   |                                   |
-|     > connect via Bluetooth or   |                                   |
-|     > wifi, and corrode like     |                                   |
-|     > crazy. Number 1 started    |                                   |
-|     > throwing crazy temps and   |                                   |
-|     > going off line while IN my |                                   |
-|     > house, where the temp      |                                   |
-|     > never got above 80 and the |                                   |
-|     > humidity never got above   |                                   |
-|     > 70%. Number 2 started      |                                   |
-|     > reading 265° in my         |                                   |
-|     > greenhouse, then dropped   |                                   |
-|     > to 32°, then to 165° when  |                                   |
-|     > I brought it inside to     |                                   |
-|     > check and change the       |                                   |
-|     > batteries. Number 3's back |                                   |
-|     > panel melted even though   |                                   |
-|     > the greenhouse never rose  |                                   |
-|     > above 105, and number 4,   |                                   |
-|     > in the pic, was wet inside |                                   |
-|     > and corroded even though   |                                   |
-|     > the hatch was hatch side   |                                   |
-|     > down on a metal grate with |                                   |
-|     > wide slats so that it      |                                   |
-|     > would never be in standing |                                   |
-|     > water."                    |                                   |
-+----------------------------------+-----------------------------------+
-| -   "I bought this to monitor    | -   Strong wifi                   |
-|     > the temp in my garage      |     > connection(explicit)        |
-|     > freezer. This thing is     |                                   |
-|     > CONSTANTLY losing          | -   Consistent alerts when data   |
-|     > connection to the Wi-Fi.   |     > is out of range (latent)    |
-|     > It should and does not     |                                   |
-|     > give any kind of           | -   Ability to withstand a wide   |
-|     > notification when the      |     > range of                    |
-|     > signal is lost. It also    |     > temperatures(latent).       |
-|     > only gives one brief       |                                   |
-|     > notification when the temp |                                   |
-|     > gets too high. IMO it      |                                   |
-|     > should make my phone go    |                                   |
-|     > nuts until I acknowledge   |                                   |
-|     > the notification. Only one |                                   |
-|     > quick beep is useless if I |                                   |
-|     > am saying mowing the       |                                   |
-|     > grass........I called      |                                   |
-|     > Govee today to see if      |                                   |
-|     > there was some kind of     |                                   |
-|     > update or something they   |                                   |
-|     > could look at. The guy     |                                   |
-|     > tells me it is not         |                                   |
-|     > supposed to go in the      |                                   |
-|     > freezer. WTH? That is what |                                   |
-|     > I bought it for. I         |                                   |
-|     > remember searching for and |                                   |
-|     > buying it specifically for |                                   |
-|     > the freezer when I picked  |                                   |
-|     > it up a couple of years    |                                   |
-|     > ago. Ridiculous!!! I guess |                                   |
-|     > it is worthless and I will |                                   |
-|     > have to search for         |                                   |
-|     > something else to buy."    |                                   |
-+----------------------------------+-----------------------------------+
-| -   "If you are buying this      | -   Real time data tracking       |
-|     > because you want           |     > (explicit)                  |
-|     > temperature alerts while   |                                   |
-|     > you are away, you will be  | -   Ability to send continuous    |
-|     > disappointed! Do not buy!  |     > alerts as numbers go out of |
-|     > First of all,              |     > range (latent)              |
-|     > notifications only work on |                                   |
-|     > Bluetooth \-- while you    | -   Ability to see real time      |
-|     > are at home with your      |     > updates on app even when    |
-|     > device! So there is no way |     > far from home (latent)      |
-|     > to receive notifications   |                                   |
-|     > while you are away. You    |                                   |
-|     > can check the temperature  |                                   |
-|     > while you are away by      |                                   |
-|     > opening the app on your    |                                   |
-|     > phone, to see if the       |                                   |
-|     > temperature is within your |                                   |
-|     > desired range. But this is |                                   |
-|     > not quick \-- it takes     |                                   |
-|     > 5-10 seconds for the app   |                                   |
-|     > to update with the recent  |                                   |
-|     > data from the device.      |                                   |
-|     > Second, the device only    |                                   |
-|     > sends alerts via app       |                                   |
-|     > notification, not email or |                                   |
-|     > text. And you only get one |                                   |
-|     > notification when the temp |                                   |
-|     > drops out of the range you |                                   |
-|     > specify. There is no way   |                                   |
-|     > to escalate based on the   |                                   |
-|     > amount of time the device  |                                   |
-|     > has been out of            |                                   |
-|     > temperature range, or to   |                                   |
-|     > set a more severe          |                                   |
-|     > temperature threshold.     |                                   |
-+----------------------------------+-----------------------------------+
+|----------------------------------|-----------------------------------|
+| - “ I have had 4 of these since late last year and all 4 are now garbage. I purchased them for my temp and permanent greenhouse, my dad’s greenhouse, and to monitor my indoor grow room. They work great for the first couple months, but much more than that they just start reading erratic temps, refuse to connect via Bluetooth or wifi, and corrode like crazy. Number 1 started throwing crazy temps and going off line while IN my house, where the temp never got above 80 and the humidity never got above 70%. Number 2 started reading 265° in my greenhouse, then dropped to 32°, then to 165° when I brought it inside to check and change the batteries. Number 3’s back panel melted even though the greenhouse never rose above 105, and number 4, in the pic, was wet inside and corroded even though the hatch was hatch side down on a metal grate with wide slats so that it would never be in standing water.” | - Product data stays accurate even with consistent use (latent) <br> - No safety risks (latent) <br> - Strong bluetooth and wifi connection (explicit) |
+| - “I bought this to monitor the temp in my garage freezer. This thing is CONSTANTLY losing connection to the Wi-Fi. It should and does not give any kind of notification when the signal is lost. It also only gives one brief notification when the temp gets too high. IMO it should make my phone go nuts until I acknowledge the notification. Only one quick beep is useless if I am saying mowing the grass……..I called Govee today to see if there was some kind of update or something they could look at. The guy tells me it is not supposed to go in the freezer. WTH? That is what I bought it for. I remember searching for and buying it specifically for the freezer when I picked it up a couple of years ago. Ridiculous!!! I guess it is worthless and I will have to search for something else to buy.” | - Strong wifi connection(explicit) <br> - Consistent alerts when data is out of range (latent) <br> - Ability to withstand a wide range of temperatures(latent). |
+| - “If you are buying this because you want temperature alerts while you are away, you will be disappointed! Do not buy! First of all, notifications only work on Bluetooth -- while you are at home with your device! So there is no way to receive notifications while you are away. You can check the temperature while you are away by opening the app on your phone, to see if the temperature is within your desired range. But this is not quick -- it takes 5-10 seconds for the app to update with the recent data from the device. Second, the device only sends alerts via app notification, not email or text. And you only get one notification when the temp drops out of the range you specify. There is no way to escalate based on the amount of time the device has been out of temperature range, or to set a more severe temperature threshold." | - Real time data tracking (explicit) <br> - Ability to send continuous alerts as numbers go out of range (latent) <br> - Ability to see real time updates on app even when far from home (latent) | 
 
 **Search #4**
 
 **Keywords: Wireless weather station with outdoor sensors**
 
 **Search Results Link:
-[[Link]{.underline}](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_1_sspa?keywords=Wind%2BSensor&qid=1693169930&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)**
+[[Link]](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_1_sspa?keywords=Wind%2BSensor&qid=1693169930&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)**
 
 **Selected Product**
 
-4.  [Sainlogic internet wireless station remote monitoring
-    > system]{.underline}
+4.  [Sainlogic internet wireless station remote monitoringsystem]
 
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image1.jpg){width="3.807292213473316in"
-height="3.9018832020997376in"}
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image1.jpg)<br>
 
-Price: \$103.99
+Price: $103.99
 
 Vendor: Sainlogic
 
@@ -262,143 +154,28 @@ transmitter.
 
 Positive Comments
 
-+-----------------------------------+-----------------------------------+
 | Consumer Voice                    | Restated Customer Need            |
-+===================================+===================================+
-| -   Our unit is mounted just off  | -   Install protectors for        |
-|     > the shoreline of Lake       |     > outdoor sensors(explicit)   |
-|     > Ontario. It is exposed to   |                                   |
-|     > severe weather and lots of  | -   Exposed sensors need to       |
-|     > variations of conditions.   |     > resist wear and             |
-|     > It has held up well and is  |     > tear(latent)                |
-|     > extremely accurate. I did   |                                   |
-|     > have an issue with the      | -   The structure needs to be     |
-|     > outdoor temperature and     |     > strong to withstand windy   |
-|     > humidity not displaying on  |     > weather(latent)             |
-|     > the screen. Customer        |                                   |
-|     > service was very responsive | -   Data and parameters can be    |
-|     > with suggestions to resolve |     > quickly fed back(explicit)  |
-|     > the issue.I have had        |                                   |
-|     > spiders get in and spin     | -   Stable wireless               |
-|     > webs on the rain collection |     > connection(explicit)        |
-|     > arm.                        |                                   |
-|                                   | -   Rechargeable instead of       |
-| -   I bought this weather station |     > disposable                  |
-|     > because I had a Bresser     |     > batteries(explicit)         |
-|     > brand that gave me          |                                   |
-|     > connection problems and I   | -   Displays need to be bright    |
-|     > wanted another one with     |     > and durable(latent)         |
-|     > another frequency.Positive  |                                   |
-|     > aspects: the connection     | -   Weather data can be           |
-|     > works perfectly, the data   |     > stored(explicit)            |
-|     > seems reliable, it seems    |                                   |
-|     > more resistant than the     | -   Instrument parameters can be  |
-|     > Bresser, the screen is more |     > adjusted manually(latent)   |
-|     > beautiful with colors and   |                                   |
-|     > lighting and it can be      | -   Easy to assemble and          |
-|     > connected to the current so |     > operate(explicit)           |
-|     > as not to waste             |                                   |
-|     > batteries.Negative aspects: |                                   |
-|     > in comparison, it lacks     |                                   |
-|     > many functionalities, it    |                                   |
-|     > has a record of maximums    |                                   |
-|     > and minimums but only for   |                                   |
-|     > 24 hours and it does not    |                                   |
-|     > specify what time and day   |                                   |
-|     > it occurred. In addition,   |                                   |
-|     > it does not have a record   |                                   |
-|     > to see the data of the last |                                   |
-|     > 24 hours, that is, it only  |                                   |
-|     > gives you the data of the   |                                   |
-|     > moment.                     |                                   |
-|                                   |                                   |
-| -   It will be delivered well     |                                   |
-|     > packaged. The structure and |                                   |
-|     > installation are well       |                                   |
-|     > described and easy to       |                                   |
-|     > implement. The function     |                                   |
-|     > meets our requirement. The  |                                   |
-|     > screen is large and         |                                   |
-|     > clear.What we can\'t        |                                   |
-|     > predict is the durability   |                                   |
-|     > of the outdoor unit. It\'s  |                                   |
-|     > made of plastic. In our     |                                   |
-|     > area (Andalusia/1000m)      |                                   |
-|     > there is a lot of sun and   |                                   |
-|     > strong wind.                |                                   |
-+-----------------------------------+-----------------------------------+
+|-----------------------------------|-----------------------------------|
+| - "Our unit is mounted just off the shoreline of Lake Ontario. It is exposed to severe weather and lots of variations of conditions. It has held up well and is extremely accurate. I did have an issue with the outdoor temperature and humidity not displaying on the screen. Customer service was very responsive with suggestions to resolve the issue.I have had spiders get in and spin webs on the rain collection arm." <br> - "I bought this weather station because I had a Bresser brand that gave me connection problems and I wanted another one with another frequency.Positive aspects: the connection works perfectly, the data seems reliable, it seems more resistant than the Bresser, the screen is more beautiful with colors and lighting and it can be connected to the current so as not to waste batteries.Negative aspects: in comparison, it lacks many functionalities, it has a record of maximums and minimums but only for 24 hours and it does not specify what time and day it occurred. In addition, it does not have a record to see the data of the last 24 hours, that is, it only gives you the data of the moment." <br> - "It will be delivered well packaged. The structure and installation are well described and easy to implement. The function meets our requirements. The screen is large and clear.What we can't predict is the durability of the outdoor unit. It's made of plastic. In our area (Andalusia/1000m) there is a lot of sun and strong wind." | - Data and parameters can be quickly fed back(explicit) <br> - Stable wireless connection(explicit) <br> - Rechargeable instead of disposable batteries(explicit) <br> - Displays need to be bright and durable(latent) <br> - Weather data can be stored(explicit) <br> - Instrument parameters can be adjusted manually(latent) <br> - Easy to assemble and operate(explicit) |
 
 Negative Comments
 
-+----------------------------------+-----------------------------------+
 | Consumer Voice                   | Restated Customer Need            |
-+==================================+===================================+
-| -   The batteries in the outdoor | -   Internal parts are easy to    |
-|     > unit will be very          |     > replace(explicit)           |
-|     > difficult to replace while |                                   |
-|     > on the roof. There is a    | -   Large battery                 |
-|     > small screw to remove that |     > capacity(latent)            |
-|     > is almost guaranteed to    |                                   |
-|     > fall down and roll off the | -   The station can be mounted at |
-|     > roof, and then the         |     > any angle(explicit)         |
-|     > batteries have to go up    |                                   |
-|     > into the unit with the     | -   The units can be              |
-|     > correct polarity, and you  |     > rotated(explicit)           |
-|     > will have to lay under it  |                                   |
-|     > looking up to see the      | -   All functions should be       |
-|     > installation direction.    |     > integrated and              |
-|     > Battery replacement from   |     > categorized(explicit)       |
-|     > the side would be a lot    |                                   |
-|     > better. Amended to one     | -   Wrong actions on system can   |
-|     > star.                      |     > be undone(explicit)         |
-|                                  |                                   |
-| -   This weather station has     | -   The instruction is simple and |
-|     > pretty severe mounting     |     > easy to understand(latent)  |
-|     > limitations if you are     |                                   |
-|     > mounting it on a           | -   Longer life cycle(latent)     |
-|     > \"vertical\" service. If   |                                   |
-|     > this surface is vertical,  |                                   |
-|     > you can only mount it on   |                                   |
-|     > an east or west facing     |                                   |
-|     > surface, as the mounting   |                                   |
-|     > hardware included doesn\'t |                                   |
-|     > let you rotate the unit    |                                   |
-|     > around to point the        |                                   |
-|     > outdoor sensor in the      |                                   |
-|     > correct direction.         |                                   |
-|                                  |                                   |
-| -   It certainly has a lot of    |                                   |
-|     > functions (mostly          |                                   |
-|     > useless), and my estimate  |                                   |
-|     > is around a hundred. To    |                                   |
-|     > pull up all this           |                                   |
-|     > information, you have      |                                   |
-|     > basically three buttons    |                                   |
-|     > located around the edges,  |                                   |
-|     > so be careful if you have  |                                   |
-|     > to pick it up to read it   |                                   |
-|     > or shift the rain gage     |                                   |
-|     > scale. If you push the     |                                   |
-|     > wrong button or push them  |                                   |
-|     > in the wrong sequence, you |                                   |
-|     > could wind up erasing      |                                   |
-|     > data. No menu and no help  |                                   |
-|     > from the manual.           |                                   |
-+----------------------------------+-----------------------------------+
+|----------------------------------|-----------------------------------|
+| - "The batteries in the outdoor unit will be very difficult to replace while on the roof. There is a small screw to remove that is almost guaranteed to fall down and roll off the roof, and then the batteries have to go up into the unit with the correct polarity, and you will have to lay under it looking up to see the installation direction. Battery replacement from the side would be a lot better. Amended to one star. <br> - "This weather station has pretty severe mounting limitations if you are mounting it on a "vertical" service. If this surface is vertical, you can only mount it on an east or west facing surface, as the mounting hardware included doesn't let you rotate the unit around to point the outdoor sensor in the correct direction." <br> - "It certainly has a lot of functions (mostly useless), and my estimate is around a hundred. To pull up all this information, you have basically three buttons located around the edges, so be careful if you have to pick it up to read it or shift the rain gage scale. If you push the wrong button or push them in the wrong sequence, you could wind up erasing data. No menu and no help from the manual." | - Internal parts are easy to replace(explicit) <br> - Large battery capacity(latent) <br> - The station can be mounted at any angle(explicit) <br> - The units can be rotated(explicit) <br> - All functions should be integrated and categorized(explicit) <br> - Wrong actions on system can be undone(explicit) <br> - The instruction is simple and easy to understand(latent) <br> - Longer life cycle(latent) |
 
 **Search #5**
 
 **Keywords: temperature sensor**
 
 **Search Results Link:
-[[link]{.underline}](https://www.amazon.com/Etekcity-Thermometer-774-Temperature-Accessories/dp/B0B71HFH9K/ref=sr_1_5?crid=1PCQZNWIV0QA3&keywords=temperature%2Bsensor&qid=1693178443&sprefix=temperatue%3D%2Caps%2C220&sr=8-5&th=1)**
+[[link]](https://www.amazon.com/Etekcity-Thermometer-774-Temperature-Accessories/dp/B0B71HFH9K/ref=sr_1_5?crid=1PCQZNWIV0QA3&keywords=temperature%2Bsensor&qid=1693178443&sprefix=temperatue%3D%2Caps%2C220&sr=8-5&th=1)**
 
 **Selected Product**
 
-5.  ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image3.png){width="4.489583333333333in"
-    > height="3.8481244531933507in"}
+5.  ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image3.png)<br>
 
-Price: \$16.99
+Price: $$16.99
 
 Vendor: Amazon
 
@@ -413,83 +190,15 @@ must-have companion for culinary and technical endeavors alike.
 
 Positive Comments
 
-+-----------------------------------+-----------------------------------+
 | Consumer Voice                    | Restated Customer Need            |
-+===================================+===================================+
-| -   I initially got this for spot | -   Product is light weight       |
-|     > checking temperatures for   |     > (explicit)                  |
-|     > my car engine during        |                                   |
-|     > maintenance. My first use   | -   Does not excessively drain    |
-|     > case was trying to pinpoint |     > battery (latent)            |
-|     > where the tiny water leak   |                                   |
-|     > in my kitchen was coming    | -   Ability to use on a variety   |
-|     > from. The surrounding       |     > of surfaces (explicit)      |
-|     > surface area was around 75  |                                   |
-|     > deg while the cold spot     | -   Device outputs accurate data  |
-|     > where the water was         |     > (explicit)                  |
-|     > dripping was 67ish.         |                                   |
-|                                   | -   Product is easy to use        |
-| -   Other than that I\'ve used it |     > (explicit)                  |
-|     > for checking BBQ grills,    |                                   |
-|     > power plug temp, computer   |                                   |
-|     > cpu cooler surface temp,    |                                   |
-|     > LED light bulbs heat        |                                   |
-|     > output, and a few other     |                                   |
-|     > electronics.                |                                   |
-|                                   |                                   |
-| -   I like that it has dual       |                                   |
-|     > lasers, light weight,       |                                   |
-|     > screen is easy to read and  |                                   |
-|     > doesn\'t stay on for long.  |                                   |
-+-----------------------------------+-----------------------------------+
+|-----------------------------------|-----------------------------------|
+| - "I initially got this for spot checking temperatures for my car engine during maintenance. My first use case was trying to pinpoint where the tiny water leak in my kitchen was coming from. The surrounding surface area was around 75 deg while the cold spot where the water was dripping was 67ish." <br> - "Other than that I've used it for checking BBQ grills, power plug temp, computer cpu cooler surface temp, LED light bulbs heat output, and a few other electronics." <br> - "I like that it has dual lasers, light weight, screen is easy to read and doesn't stay on for long. | - Product is light weight (explicit) <br> - Does not excessively drain battery (latent) <br> - Ability to use on a variety of surfaces (explicit) <br> - Device outputs accurate data (explicit) <br> - Product is easy to use (explicit) |
 
 Negative Comments
 
-+----------------------------------+-----------------------------------+
 | Consumer Voice                   | Restated Customer Need            |
-+==================================+===================================+
-| -   "I thought this product was  | -   Data outputs are consistent   |
-|     > pretty good for the price  |     > and accurate (latent)       |
-|     > until it was time to       |                                   |
-|     > change the battery. It was | ```{=html}                        |
-|     > very difficult to pry the  | <!-- -->                          |
-|     > 9 Volt battery off. The    | ```                               |
-|     > connections are just not   | -   Well thought out design       |
-|     > made well and after        |     > (latent)                    |
-|     > finally getting it off and |                                   |
-|     > putting the new battery    | -   Ease of use (explicit)        |
-|     > in, we'll it's just not    |                                   |
-|     > working. It seemed to be a | -   High quality materials used   |
-|     > good product but           |     > (latent)                    |
-|     > unfortunately              |                                   |
-|     > manufacturing did a poor   | -   Durable and long lasting      |
-|     > job in designing the       |     > (latent)                    |
-|     > battery connection."       |                                   |
-|                                  |                                   |
-| -   "Out of the box this item    |                                   |
-|     > was reading 400+F after    |                                   |
-|     > troubleshooting and        |                                   |
-|     > reading all the manuals    |                                   |
-|     > there is no way to         |                                   |
-|     > calibrate it. Last time I  |                                   |
-|     > used it it was 700+f."     |                                   |
-|                                  |                                   |
-| -   "It seemed like a decent     |                                   |
-|     > thermometer. But now it is |                                   |
-|     > too sticky to use.The      |                                   |
-|     > coating (Thin rubberized   |                                   |
-|     > soft feel grip) started    |                                   |
-|     > becoming tacky in about 2  |                                   |
-|     > years of owning it. I      |                                   |
-|     > hardly even used the       |                                   |
-|     > thermometer. (Used it      |                                   |
-|     > maybe 10 times) I tried    |                                   |
-|     > wiping off the coating     |                                   |
-|     > with goo gone and          |                                   |
-|     > isopropyl alcohol. It's    |                                   |
-|     > too labor intensive to     |                                   |
-|     > clean off."                |                                   |
-+----------------------------------+-----------------------------------+
+|----------------------------------|-----------------------------------|
+| - "“I thought this product was pretty good for the price until it was time to change the battery. It was very difficult to pry the 9 Volt battery off. The connections are just not made well and after finally getting it off and putting the new battery in, we’ll it’s just not working. It seemed to be a good product but unfortunately manufacturing did a poor job in designing the battery connection.” <br> - “Out of the box this item was reading 400+F after troubleshooting and reading all the manuals there is no way to calibrate it. Last time I used it it was 700+f.” <br> - “It seemed like a decent thermometer. But now it is too sticky to use.The coating (Thin rubberized soft feel grip) started becoming tacky in about 2 years of owning it. I hardly even used the thermometer. (Used it maybe 10 times) I tried wiping off the coating with goo gone and isopropyl alcohol. It’s too labor intensive to clean off.” | - Data outputs are consistent and accurate (latent) <br> - Well thought out design (latent) <br> - Ease of use (explicit) <br> - High quality materials used (latent) <br> - Durable and long lasting (latent) |
 
 **User Needs**
 
@@ -503,8 +212,7 @@ Negative Comments
 
 5.  Product is resistant to damage (latent)
 
-6.  Power system of the product should function at a safe voltage range
-    > (explicit)
+6.  Power system of the product should function at a safe voltage range explicit)
 
 7.  Product requires little to no knowledge to operate (explicit)
 
@@ -572,8 +280,7 @@ Negative Comments
 
 39. Minimal impact mounting design (latent)
 
-40. Product has ability to switch from automatic to manual use
-    > (explicit)
+40. Product has ability to switch from automatic to manual use(explicit)
 
 41. Ability to control multiple products individually (explicit)
 
@@ -601,8 +308,7 @@ Negative Comments
 
 53. Product must withstand a high level of interaction (latent)
 
-54. Product does not have a chance of injuring user or others around
-    > (latent)
+54. Product does not have a chance of injuring user or others around(latent)
 
 55. Product is easy to program (explicit)
 
@@ -616,62 +322,34 @@ Negative Comments
 
 60. Multiple users are able to control one product (explicit)
 
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image6.png){width="9.0in"
-height="5.795138888888889in"}
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image6.png)<br>
 
 *Figure 1: Initial Jamboard displaying all user needs.*
 
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image5.png){width="9.0in"
-height="5.371527777777778in"}
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image5.png)<br>
 
 *Figure 2: Second Jamboard with user needs categorized by subject.*
 
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image8.png){width="9.0in"
-height="5.097222222222222in"}*Figure 3: 3rd Jamboard with user needs
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/image8.png)<br> 
+*Figure 3: 3rd Jamboard with user needs
 ranked on a scale of 1-3 within their meta needs.*
 
 *Table 1: Rating final user needs using a 1-3 scale.*
 
-  -----------------------------------------------------------------------
-  **User Needs (final     **Reason**              **Level of importance
-  consolidation)**                                1-3 (3 is best)**
-  ----------------------- ----------------------- -----------------------
-  **Safety:** Product is  Product must ensure     3 3 3 3 3 15/5 = **3
-  equipped with fail safe that users are not at   stars**
-  mechanisms such as      risk during use.        
-  alerts for each                                 
-  subsystem in the event                          
-  of malfunction.                                 
+| **User Needs (final consolidation) | **Reason | **Level of important 1-3 (3 is highest) |
+|----------------------- | ----------------------- | ----------------------- | 
+| **Safety:** Product is equipped with fail safe mechanisms such as alerts for each subsystem in the event of malfunction. | Product must ensure that users are not at risk during use. | 3 3 3 3 3        15/5 =      3 stars |
+| **Functionality:** Product has the ability to set data ranges and is robust enough to withstand everyday use and handle changes in environment. | Product will serve its purpose on a daily basis so it needs to be able to withstand wear and tear. | 2 2 2 2 2      10/5 =   2 stars | 
+| **Design:** Product is functional, easy to use and to troubleshoot, and performs as designed after continued use. | Product is intended to be fast and easy to set up. | 1 1 1 1 1      5 /5 =     1 star |
 
-  **Functionality:**      Product will serve its  2 2 2 2 2 10/5 = **2
-  Product has the ability purpose on a daily      stars**
-  to set data ranges and  basis so it needs to be 
-  is robust enough to     able to withstand wear  
-  withstand everyday use  and tear.               
-  and handle changes in                           
-  environment.                                    
+Team 301 ranked the Meta User Needs using a 1-3 star scale, with 3 being the most important. After calculations, Safety is Team 301’s most important Meta user need. While design and functionality are also important, our product needs to be safe for all users. Our product is designed to help users with a task and ensuring that there are no dangerous parts or mechanisms will ensure that it is safe for all to use. 
 
-  **Design:** Product is  Product is intended to  1 1 1 1 1 5 /5 = **1
-  functional, easy to use be fast and easy to set star**
-  and to troubleshoot,    up.                     
-  and performs as                                 
-  designed after                                  
-  continued use.                                  
-  -----------------------------------------------------------------------
-
-Team 301 ranked the Meta User Needs using a 1-3 star scale, with 3 being
-the most important. After calculations, Safety is Team 301's most
-important Meta user need. While design and functionality are also
-important, our product needs to be safe for all users. Our product is
-designed to help users with a task and ensuring that there are no
-dangerous parts or mechanisms will ensure that it is safe for all to
-use.
 
 **User Needs Ranked Within Meta Needs**
 
 1.  **Safety**
 
-[1 Star]{.underline}
+[1 Star]
 
 -   Product is non toxic
 
@@ -707,7 +385,7 @@ use.
 
 -   Parts will be replaceable if damaged
 
-[3 Stars]{.underline}
+[3 Stars]
 
 -   Product will be protected from weather changes
 
@@ -719,7 +397,7 @@ use.
 
 2.  **Functionality**
 
-[1 Star]{.underline}
+[1 Star]
 
 -   Product does what it is intended to do
 
@@ -803,7 +481,7 @@ use.
 
 3.  **Design**
 
-**Product Requirements Document**
+## Product Requirements Document
 
 **Arizona State University**
 
