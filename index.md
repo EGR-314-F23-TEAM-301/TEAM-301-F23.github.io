@@ -17,5 +17,4 @@
 
 ### [Appendix A - Team Organization](Appendix_A.md)
 ### [Appendix B - User Needs, Benchmarking, and Requirements](Appendix_B.md)
-
-
+### [Appendix C - Design Ideation](Appendix_C.md)
