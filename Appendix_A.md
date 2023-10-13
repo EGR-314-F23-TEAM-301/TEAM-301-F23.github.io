@@ -1,7 +1,5 @@
-Team 301
-
 **Team Goals**
-
+---
 The goals this team would like to accomplish are as follows: to create a
 product that is original yet innovative; the product fulfills an actual
 need; the group learns and grows during this class; the product is
@@ -9,12 +7,12 @@ operable in a safe and user-friendly manner; and the product meets the
 project requirements while staying within the development budget.
 
 **Product Mission Statement**
-
+---
 To produce a cost-effective product showcasing at least two different
 environmental serial sensors to benefit the consumer.
 
 **Communication Channels**
-
+---
 *Table 1: Team Member Communication Modes*
 
 
@@ -39,7 +37,7 @@ environmental serial sensors to benefit the consumer.
 |-----------------|-----------------|------------------|------------------|
 
 **Communication Procedures**
-
+---
 > All communication will be done over the phone. It will either be
 > through phone call, text message, in a group chat, and/or email. Our
 > second form of communication will be done via discord where all
@@ -49,7 +47,7 @@ environmental serial sensors to benefit the consumer.
 > been passed down due to a team member\'s absence, etc.
 
 **Meeting Schedule**
-
+---
 *Table 2: Meeting times acceptable for each group member, yellow blocks
 display days & times that work for the majority of group members.*
 
@@ -63,7 +61,7 @@ phone.*
 height="1.2831681977252842in"}
 
 **Meeting Coordination**
-
+---
 1.  To remind the group about any upcoming due dates, our project monitor will send out a group message a week before the submission and also add things to a shared calendar.
 
 2.  We will decide on the meetings a week before and schedule them beforehand.
@@ -73,19 +71,21 @@ height="1.2831681977252842in"}
 4.  If a team member has something that they need to attend to or needs to take care of something outside of project work, team meetings,etc. They must come forth ahead of time and must let the group know as soon as possible.
 
 **Roles & Responsibilities**
-
+---
   -----------------------------------------------------------------------
   **Person**                          **Role**
   ----------------------------------- -----------------------------------
-  Sam                                 Project monitor
+ 
+  Sam -                                 Project monitor
 
-  Jaden                               Meeting Leader
+  Jaden -                               Meeting Leader
 
-  Sivanee                             Meeting recorder
+  Sivanee -                            Meeting recorder
 
-  Houyu                               Assignment leader
+  Houyu -                               Assignment leader
 
-  Amy                                 Assignment editor/finalizer
+  Amy -                                 Assignment editor/finalizer
+  
   -----------------------------------------------------------------------
 
 -   Each member will pick a role based on the amount of workload that they can tackle. If a team member feels like they need assistance on a specific project assignment/checkpoint, they will communicate with the rest of the team and they will do their best to assist in any way that they can. In order for the group to succeed as a whole, we must all be doing our parts and contributing to the team. In addition, the team will check-in with one another to make sure that we are all doing the work evenly and effectively. The team will refer to team assignments, documentations, contracts, etc in order for the team to reach its milestones and succeed as a whole.
@@ -95,7 +95,7 @@ height="1.2831681977252842in"}
 -   Each team member will choose their own technical responsibilities based on how much workload they can put out. If a team member feels like they need assistance with a particular task, they will reach out to the rest of the group so that the group can succeed as a whole and that everyone is on the same page.
 
 **Team Coordination & Accountability**
-
+---
 -   Each and every assignment will undergo a review process with the team as a whole. The group will decide whether or not an assignment is complete and is ready for submission. If a team member objects to an assignment submission, it will go through a review process that breaks down the assignment by every detail, making sure that it is complete and ready to be submitted.
 
 -   Skill and knowledge of an assignment will be verbally distributed either in-person or remotely. If a team member feels that they don't have the skill and knowledge to complete a task, the team will comprise the workload in order to complete the assignment by the assigned deadline.
@@ -103,7 +103,7 @@ height="1.2831681977252842in"}
 -   Any feedback that is presented to the group will be distributed to every team member to ensure that the entire team is on the same page. If a team member is absent either in class or during a meeting time, information will be passed down to that individual.
 
 **Conflict Recognition & Resolution**
-
+---
 -   Any conflicts within the group will be tackled on as a grouptogether. If a team member has any sort of conflict with the group, they will voice out their thoughts and concerns to the group and present what needs to be fixed. Therefore, the group will come to a compromise as a whole either in-person or remotely via one of the communication methods that has been established.
 
 
