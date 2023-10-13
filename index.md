@@ -7,14 +7,14 @@ To tackle this issue, we came up with a solution to the window shade product ind
 **Table of Contents**
 ---
 
-### [1.0 Team Organization](Team_Organization.md)
-### [2.0 User Needs, Benchmarking, and Requirements](UserNeeds_Benchmarking_Requirements.md)
-### [3.0 Design Ideation](Design_Ideation.md)
-### [4.0 Selected Design](Selected_Design.md)
-### [5.0 Block Diagram](Block_Diagram.md)
-### [6.0 Component Selection](Component_Selection.md)
-### [7.0 Software Implementation](Software_Implementation.md)
-### [8.0 Hardware Implementation](Hardware_Implementation.md)
+## [1.0 Team Organization](Team_Organization.md)
+## [2.0 User Needs, Benchmarking, and Requirements](UserNeeds_Benchmarking_Requirements.md)
+## [3.0 Design Ideation](Design_Ideation.md)
+## [4.0 Selected Design](Selected_Design.md)
+## [5.0 Block Diagram](Block_Diagram.md)
+## [6.0 Component Selection](Component_Selection.md)
+## [7.0 Software Implementation](Software_Implementation.md)
+## [8.0 Hardware Implementation](Hardware_Implementation.md)
 
 ## Appendices 
 
