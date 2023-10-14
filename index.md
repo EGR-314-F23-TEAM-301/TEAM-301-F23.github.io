@@ -21,3 +21,5 @@ To tackle this issue, we came up with a solution to the window shade product ind
 ### [Appendix A - Team Organization](Appendix_A.md)
 ### [Appendix B - User Needs, Benchmarking, and Requirements](Appendix_B.md)
 ### [Appendix C - Component Selection](Appendix_C.md)
+### [Appendix D - Microcontroller Selection](Appendix_D.md)
+### [Appendix E - Bill of Materials](Appendix_E.md)
