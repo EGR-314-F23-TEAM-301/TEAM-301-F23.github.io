@@ -8,7 +8,7 @@ After coming up with a design that the team agreed upon, we generated a list of 
 -
 The project guidlines and requirements tasked the team to use a Microchip PIC microcontroller that will be programmed to perform the various functions the device is developed to do. The team selected and compared three different PIC models and determined which would work best for our device. The team decided to settle on the **PIC24FJ64702**.
 
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image.png)
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image3.png)
 
 The **PIC24FJ64702** comes in a 28 pin SOIC package which can be soldered easily and it also contained the appropriate program memory out of the three models that was compared. Having two additional UART and three I2C peripherals, the selected microcontroller can accomodate to all selected environmental sensors and debugging interfaces that would be necessary for a smooth design process.
 
