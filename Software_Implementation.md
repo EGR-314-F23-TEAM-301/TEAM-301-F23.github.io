@@ -2,6 +2,8 @@
 -
 Attached below is our current software diagram. Here we can see a breakdown of how our system will function in terms of the main loop, initialization, state functions, and interrupts. 
 
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/softwareproposal.png)
+
 **Software State Flow Function**
 -
 Here we're going to break down each of the sections starting off with our main loop. Our main loop kind of holds everything together containing readings from all of our sensors and where the logic that is being analyzed from each sensor. After initializing the peripheralas and other variables, it is then transferred into an infinite loop.
