@@ -20,7 +20,7 @@ Motor Driver
 -
 **DRV8830DGQR**
 
-insert image here
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image4.png)
 
 **Reasoning**
 
@@ -30,7 +30,7 @@ Motor
 -
 **JGA25-70 Geared Motor**
 
-insert image here
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image5.png)
 
 **Reasoning**
 
@@ -40,7 +40,7 @@ Temperature Sensor
 -
 **CTC74A4-3.3VCTTR**
 
-insert image here
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image6.png)
 
 **Reasoning**
 
@@ -50,7 +50,7 @@ Humidity Sensor
 -
 **HIH6030-021-001**
 
-insert image here
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image7.png)
 
 **Reasoning**
 
@@ -60,7 +60,7 @@ IR Op-Amp
 -
 **LM358DGKR**
 
-insert images here
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image8.png)
 
 **Reasoning**
 
@@ -70,7 +70,7 @@ IR Sensor
 -
 **TMD26721**
 
-insert image here
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image9.png)
 
 **Reasoning**
 
@@ -80,7 +80,7 @@ The IR Sensor that was selected was another one of our susbsytems that met the p
 -
 **MIC4575WU**
 
-insert image here 
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image10.png)
 
 **Reasoning**
 
