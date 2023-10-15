@@ -30,3 +30,5 @@ Due to having an extra group member added to the team, the team had to come up w
 **Motor Driver and Motors**
 -
 The project requires at least one motor/serial actuator to be controlled by a motor controller that will communicate over SPI or I2C-based protocol.
+
+[Back to Home](index)
