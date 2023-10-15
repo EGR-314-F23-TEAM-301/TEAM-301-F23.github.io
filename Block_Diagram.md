@@ -4,7 +4,8 @@ The block diagram helps visualize and understand the functionality of each indiv
 
 **Current Block Diagram**
 -
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/blockdiagram.png)
+
+<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/blockdiagram.pdf" width="100%" height="500px"></iframe>
 
 **Individual Subsystems**
 -
