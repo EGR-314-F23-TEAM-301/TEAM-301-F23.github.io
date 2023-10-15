@@ -2,6 +2,7 @@
 -
 Attached below is the first version of our team board schematic. Noted that there is some room for improvement, we have our schematic showing the temperature, humidity, motor driver, light sensors,  microcontroller, ESP32, power system, and power regulator systems. We also used headers for adjustable connections and verifications.
 
+![](TEAM-301-F23.github.io/TEAM_SCHEMATIC.pdf)
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/schematic.png)
 
 For our first version of the PCB, on of our main focuses was fitting all components onto the board. And while having a fifth member is good, we needed to incorporate one more subsystem and had to keep that in mind when fitting all subsystems onto one board. We did run into some occasions of posssibly using two boards but we were able to fit everything into one board. 
