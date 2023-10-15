@@ -26,3 +26,5 @@ Located in the bottom left hand corner is our motor driver susbsystem. This subs
 Power and Voltage Regulator
 -
 Our power and voltage regulator subsystem will be located in the top left hand corner. This subsystem is responsible for receiving a wall mounted power supply of 6V and converting that to 3.3V to supply power to our other subsystems.
+
+[Back to Home](index)
