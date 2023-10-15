@@ -107,5 +107,4 @@ height="1.2831681977252842in"}
 -   Any conflicts within the group will be tackled on as a grouptogether. If a team member has any sort of conflict with the group, they will voice out their thoughts and concerns to the group and present what needs to be fixed. Therefore, the group will come to a compromise as a whole either in-person or remotely via one of the communication methods that has been established.
 
 
-> [Back to
-> to](https://embedded-systems-design.bitbucket.io/3x4/3x4-team-team-organization/#)
+[Back to Home](index)
