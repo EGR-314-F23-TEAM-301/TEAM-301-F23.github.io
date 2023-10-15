@@ -91,3 +91,5 @@ Power Budget
 To ensure that the entire susbsytem is getting the right amount of power for all subsystems, peripherals, actuators, and sensors, the team put together a power budget table to kind of breakdown our system. To simplify our design, we wanted to maintain a 6V wall mounted main power system and a 3.3V power source for logic. Using the 6V and 3A power source, we would have enough power to power all systems.
 
 insert table here
+
+[Back to Home](index)
