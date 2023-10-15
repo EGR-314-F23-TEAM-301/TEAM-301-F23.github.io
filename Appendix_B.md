@@ -661,9 +661,9 @@ low air pressure
 
 -   Q: How can we make the product more environmentally friendly?
 
-[Back to Home](index)
-
 -   Q: Can we make the product more customizable?
 
 -   Q: What materials will make the product more efficient than other
     > materials?
+
+[Back to Home](index)
