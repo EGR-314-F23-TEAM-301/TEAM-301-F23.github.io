@@ -33,3 +33,5 @@ For our next concept, it would essentially be an automated plant waterer that wo
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/concept3.png)
 
 And for our last concept, we came up with and automated fan humidifier that would use a temperature and humidity sensor. Essentially, the way this concept was gonna function is that the device would read the setting of the area that is placed in and read the temperature and humidity levels. From there, depending on how high or low the values are, it would then start a humidifier to humidify the area until a comfortable setting has been met.
+
+[Back to Home](index)
