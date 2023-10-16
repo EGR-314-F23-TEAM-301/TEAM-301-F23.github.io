@@ -6,6 +6,7 @@ Concept 3 was also abandoned due to not being able to come up with implementing 
 
 Concept 1 was mainly picked due to the possibility that we think we can accomplish with this idea. We could potentially develop an idea that has been in the making but has not been achieved yet. It provided a high level of functionality by allowing a user to interface with the device that would use not two but three environmental sensors to help create a comfortable home atmosphere for them. To add on, we felt that with this concept, the team could meet all of our project goals and requirements. 
 
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/selected_design.png)
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/selected_design_front.PNG)
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/selected_design.PNG)
 
 [Back to Home](index)
