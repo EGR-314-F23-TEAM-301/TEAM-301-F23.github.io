@@ -8,5 +8,6 @@ Concept 1 was mainly picked due to the possibility that we think we can accompli
 
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/selected_design_front.PNG)
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/selected_design.PNG)
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/selected_design(1).png)
 
 [Back to Home](index)
