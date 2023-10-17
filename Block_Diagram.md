@@ -13,7 +13,7 @@ Each individual can be found in the Block Diagram within the dashed boxes that c
 
 **Microcontroller and Power Regulator**
 -
-The **PIC24FJ64GA702** microcontroller selected for this project has all of the I2C, GPIO, UART, ESP32, ICSP, and WIFI pins to run the final design. The selected voltage regulator MIC4575WU satisfies the requirements of operating at a 3.3V range by using a switching voltage regulator that provides the voltage to the serial sensors that are implemented.
+The **PIC24FJ64GA702** microcontroller selected for this project has all of the I2C, GPIO, UART, ESP32, ICSP, and WIFI pins to run the final design. The selected voltage regulator **MIC4575WU** satisfies the requirements of operating at a 3.3V range by using a switching voltage regulator that provides the voltage to the serial sensors that are implemented.
 
 **Temperature Sensor**
 -
