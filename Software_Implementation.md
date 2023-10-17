@@ -2,7 +2,7 @@
 -
 Attached below is our current software diagram. Here we can see a breakdown of how our system will function in terms of the main loop, initialization, state functions, and interrupts. 
 
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/softwareproposal.png)
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/software_proposal.pdf)
 
 **Software State Flow Function**
 -
