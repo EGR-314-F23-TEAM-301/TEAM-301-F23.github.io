@@ -15,6 +15,13 @@ To tackle this issue, we came up with a solution to the window shade product ind
 ## [6.0 Component Selection](Component_Selection.md)
 ## [7.0 Software Implementation](Software_Implementation.md)
 ## [8.0 Hardware Implementation](Hardware_Implementation.md)
+## [9.0 System Verification](System_Verification.md)
+## [10.0 Lessons Learned](Lessons_Learned.md)
+## [11.0 Recommendation for Future Students](Recommendation_for_Future_Students.md)
+
+**Resources**
+---
+[Code Repository]
 
 ## Appendices 
 
