@@ -2,7 +2,7 @@
 -
 Attached below is the final version of our team board schematic. After receiving feedback from the teaching team in order to fix any mistakes that were made. And like mentioned earlier, the team decided to cut the humidity and IR sensor subsystems from the final project and board design. 
 
-<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/TEAM_SCHEMATIC (1).pdf" width="100%" height="500px"></iframe>
+<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/Final_Schematic.pdf" width="100%" height="500px"></iframe>
 
 Connectors
 -
@@ -26,6 +26,11 @@ Our power and voltage regulator subsystem will be located in the top left hand c
 
 Version 2.0
 -
+If the team were to create a second version, or in this case, a third version since the final team board is version number two, our possible third board design would contain a few things. First would be doing just a little more research on surface mount components. The team ran into instances like soldering pins together when it wasn’t as visible unless it shined by a flashlight. 
+
+Ensuring a solid 3.3V connection was another thing that could have been improved. When the team did their continuity and power check, we were able to verify that all the components on the team board were connected with a continuity check. However, when we connected our 6V power supply to the 3.3V regulator subsystem on the final board, we were unable to output that 3.3V source. So to avoid this issue, we had a separate board that contained the 3.3V subsystem that would output the necessary 3.3V source to our smaller components like the temp sensor. The reason we weren’t able to get 3.3V out of the regulator on the main board is due to the spacing between the resistors and capacitors which brings us to the next thing that would be fixed if we could make another version of the board.
+
+Strategically placing our components on the board was the next thing that the team would have fixed if there was a chance to make another version of the board. Like mentioned before, our final version of the team board contained components that weren’t placed as strategically causing the board to not perform at the level that we had thought it would. As well as decreasing the size of the board would also be another beneficial approach that could’ve been taken upon to avoid misplacing components and not receiving the full capability of those parts.
 
 
 [Back to Home](index)
