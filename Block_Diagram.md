@@ -2,10 +2,14 @@
 -
 The block diagram helps visualize and understand the functionality of each individual subsystem and their respective components work and align together with the micro-controller.
 
-**Current Block Diagram**
+Changes
+-
+Due to team dynamics, there were a few changes that were made to the final block diagram that Team 301 would like to address. Both the humidity and IR sensor subsystems were both cut. This decision had no positive nor negative effects to the teams final design. 
+
+**Final Block Diagram**
 -
 
-<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/block_diagram.pdf" width="100%" height="500px"></iframe>
+<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/Final_Block_Diagram.pdf" width="100%" height="500px"></iframe>
 
 **Individual Subsystems**
 -
@@ -19,6 +23,10 @@ The **PIC24FJ64GA702** microcontroller selected for this project has all of the 
 -
 The project requires at least two different environmental conditions through at least two separate serial sensors. The **TC74** temperature sensor subsystem will sense at least one of the conditions.
 
+**Motor Driver and Motors**
+-
+The project requires at least one motor/serial actuator to be controlled by a motor controller that will communicate over SPI or I2C-based protocol.
+
 **Humidity Sensor**
 -
 Measuring humidity is another environmental factor that the project requires and the **HIH6030-021-001** humidity sensor will sense the second required environment condition.
@@ -27,8 +35,5 @@ Measuring humidity is another environmental factor that the project requires and
 -
 Due to having an extra group member added to the team, the team had to come up with another subsystem to divide the work evenly amongst the group. So the team decided on adding a light sensor subsystem **LM358DGKR**
 
-**Motor Driver and Motors**
--
-The project requires at least one motor/serial actuator to be controlled by a motor controller that will communicate over SPI or I2C-based protocol.
 
 [Back to Home](index)
