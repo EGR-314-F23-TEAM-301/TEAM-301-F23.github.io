@@ -1,10 +1,8 @@
 **PCB Functionality**
 -
-Attached below is the first version of our team board schematic. Noted that there is some room for improvement, we have our schematic showing the temperature, humidity, motor driver, light sensors,  microcontroller, ESP32, power system, and power regulator systems. We also used headers for adjustable connections and verifications.
+Attached below is the final version of our team board schematic. After receiving feedback from the teaching team in order to fix any mistakes that were made. And like mentioned earlier, the team decided to cut the humidity and IR sensor subsystems from the final project and board design. 
 
 <iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/TEAM_SCHEMATIC (1).pdf" width="100%" height="500px"></iframe>
-
-For our first version of the PCB, on of our main focuses was fitting all components onto the board. And while having a fifth member is good, we needed to incorporate one more subsystem and had to keep that in mind when fitting all subsystems onto one board. We did run into some occasions of posssibly using two boards but we were able to fit everything into one board. 
 
 Connectors
 -
@@ -25,5 +23,9 @@ Located in the bottom left hand corner is our motor driver susbsystem. This subs
 Power and Voltage Regulator
 -
 Our power and voltage regulator subsystem will be located in the top left hand corner. This subsystem is responsible for receiving a wall mounted power supply of 6V and converting that to 3.3V to supply power to our other subsystems.
+
+Version 2.0
+-
+
 
 [Back to Home](index)
