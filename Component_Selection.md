@@ -4,6 +4,10 @@ Introduction
 -
 After coming up with a design that the team agreed upon, we generated a list of components and a proper microcontroller that would fulfill the project requirements and our selected design's functionality. The complete list can be found in [Appendix C](Appendix_C.md)
 
+Changes
+-
+Due to team dynamics, there were a few changes that were made. Due to cutting both the humidity and IR sensor subsystems from the final design, both components from our component selection table were not applied to the final outcome of the product.
+
 **Microcontroller Selection**
 -
 The project guidlines and requirements tasked the team to use a Microchip PIC microcontroller that will be programmed to perform the various functions the device is developed to do. The team selected and compared three different PIC models and determined which would work best for our device. The team decided to settle on the **PIC24FJ64702**.
@@ -90,6 +94,6 @@ Power Budget
 -
 To ensure that the entire susbsytem is getting the right amount of power for all subsystems, peripherals, actuators, and sensors, the team put together a power budget table to kind of breakdown our system. To simplify our design, we wanted to maintain a 6V wall mounted main power system and a 3.3V power source for logic. Using the 6V and 3A power source, we would have enough power to power all systems.
 
-<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/powerbudget.pdf" width="100%" height="500px"></iframe>
+<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/Power_Budget.pdf" width="100%" height="500px"></iframe>
 
 [Back to Home](index)
