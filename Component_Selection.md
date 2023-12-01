@@ -18,8 +18,6 @@ The **PIC24FJ64702** comes in a 28 pin SOIC package which can be soldered easily
 
 To find our complete microcontroller selection process, it can be found in [Appendix D](Appendix_D.md)
 
-**Component Selection**
--
 Motor Driver
 -
 **DRV8830DGQR**
@@ -49,36 +47,6 @@ Temperature Sensor
 **Reasoning**
 
 After comparing all other options, this temerature sensor was the least expensive out of all the other temperature sensors. This sensor operates on 3.3V, it is a surface mount component, and uses I2C output. Overall, the temperature sensor that was selected can provide us with the necessary performance and accuracy that is needed to fulfill the project requirements.
-
-Humidity Sensor
--
-**HIH6030-021-001**
-
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image7.png)
-
-**Reasoning**
-
-The humidity sensor that we choose ended up being one of our more expensive options. The reason for that is due to the feedback that was provided by the teaching team that our other two selections would not meet the project requirements. However, with the concept of spending a little more than what the team wanted, this sensor still offers the accurate measurments and a wider operating range.
-
-IR Op-Amp
--
-**LM358DGKR**
-
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image8.png)
-
-**Reasoning**
-
-The selected IR Sensor Op-Amp that we selected was one of the more cheaper options that offered a wide supply range of 3V to 36V. It also can withstand low to high temperature ranges.
-
-IR Sensor
--
-**TMD26721**
-
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/image9.png)
-
-**Reasoning**
-
-The IR Sensor that was selected was another one of our susbsytems that met the project goals and guidelines. It allows the system to read in accurate states of light that will be implemented into the system.
 
 3.3 V Regulator
 -
