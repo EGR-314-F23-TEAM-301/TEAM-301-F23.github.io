@@ -33,4 +33,8 @@ Our last interrupt service routine will serve as a countdown to the clock in the
 
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/imageE.png)
 
+Changes to software design
+-
+1. 
+
 [Back to Home](index)
