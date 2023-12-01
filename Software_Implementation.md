@@ -16,7 +16,7 @@ In the loop, the three sensors that we choose to implement into our system loop 
 
 Essentially the off mode will keep the system in the off position. The timer mode will leave the shade either up or down depending on the current state it's in. And once the timer reaches 0, the shade will then go in the opposite direction. Auto mode will automatically raise or lower the shade after the readings from the temperature, humidity, and light sensor go through a trial of reading the state of each sensor.
 
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/imageA.png)
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/final_software_implementation_1.png)
 
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/imageB.png)
 
@@ -27,7 +27,7 @@ After processing the state functions, the loop will check for new inbound serial
 To help ensure that the system is responding, inputs given by the user are processed with an interrupt service routine that is attached in the main loop startup. When a button is pressed, the interrupt service routines call the necessary logic to change modes. 
 
 
-![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/imageD.png)
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/final_software_implementation_2.png)
 
 Our last interrupt service routine will serve as a countdown to the clock in the timer mode. It sends updates to the ESP32
 
