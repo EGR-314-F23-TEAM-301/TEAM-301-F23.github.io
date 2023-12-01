@@ -27,13 +27,4 @@ The project requires at least two different environmental conditions through at 
 -
 The project requires at least one motor/serial actuator to be controlled by a motor controller that will communicate over SPI or I2C-based protocol.
 
-**Humidity Sensor**
--
-Measuring humidity is another environmental factor that the project requires and the **HIH6030-021-001** humidity sensor will sense the second required environment condition.
-
-**Light Sensor**
--
-Due to having an extra group member added to the team, the team had to come up with another subsystem to divide the work evenly amongst the group. So the team decided on adding a light sensor subsystem **LM358DGKR**
-
-
 [Back to Home](index)
