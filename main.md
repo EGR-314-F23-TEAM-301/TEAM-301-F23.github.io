@@ -11,6 +11,4 @@ Team Members
 
 * Samuel Barnett
 * Jaden Nahoi-Baricar 
-* Sivanee Naghichetty Premkumar
-* Houyu Zhang
 * Amy Joyce C. Valencia
