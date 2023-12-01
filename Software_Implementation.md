@@ -7,7 +7,7 @@ Changes
 Some notable changes in the final software implementation is the removal of our two previous subsystems that we had incorporated into the team design which were the humidity and IR sensor subsystems. With this decision, it had no positive nor negative effect on the final team design. Some notable features that we would like to address is the reduced amount of coding to the two subsystems that needed to be done in order for the device to fully operate. However, we were still able to create a product that we had envisioned at the start. 
 
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/Final_Software_Implementation.pdf)
-
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/Final_Software_Implementation.pdf)
 **Software State Flow Function**
 -
 Here we're going to break down each of the sections starting off with our main loop. Our main loop kind of holds everything together containing readings from all of our sensors and where the logic that is being analyzed from each sensor. After initializing the peripheralas and other variables, it is then transferred into an infinite loop.
