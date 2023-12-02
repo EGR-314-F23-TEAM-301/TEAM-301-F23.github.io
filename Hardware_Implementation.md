@@ -10,6 +10,14 @@ Final Team PCB Front and Back Cadence Design
 -
 <iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/PCB.pdf" width="100%" height="500px"></iframe>
 
+Final Team PCB Front
+-
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/PCB_FRONT.PNG)
+
+Final Team PCB Bottom
+-
+![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/PCB_BOTTOM.PNG)
+
 
 Connectors
 -
