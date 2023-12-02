@@ -13,7 +13,7 @@ Final Team PCB Front and Back Cadence Design
 
 Connectors
 -
-The first version of our PCB also contain several connectors that serve for debugging and programming purposes. Essentially, these connectors will be used to make sure that there won't be any signs of shortage, or a component drawing too much current. We wanted to focus on the data that is being sent and received from the I2C and UART ports.
+The final version of our PCB also contains several connectors that serve for debugging and programming purposes. Essentially, these connectors will be used to make sure that there won't be any signs of shortage, or a component drawing too much current. We wanted to focus on the data that is being sent and received from the I2C and UART ports.
 
 Buttons
 -
@@ -21,7 +21,7 @@ This version of our PCB contains 4 buttons. Three of them act as interrupts for 
 
 Sensors
 -
-The temperature sensor is located in the center. The humidity sensor is located on the lower left hand side. And our IR subsystem is located in the lower right hand side. These three subsystems will control the motor using I2C to actuate the motor to either raise or lower the shade based on the logic it receives. 
+The temperature sensor is located in the center. Using I2C protocol, the temp sensor will be one of the input sources that communicates to the microcontroller and motor controller to perform specific actions.
 
 Motor Driver
 -
