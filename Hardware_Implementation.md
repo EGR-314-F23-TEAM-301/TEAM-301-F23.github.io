@@ -2,7 +2,14 @@
 -
 Attached below is the final version of our team board schematic. After receiving feedback from the teaching team in order to fix any mistakes that were made. And like mentioned earlier, the team decided to cut the humidity and IR sensor subsystems from the final project and board design. 
 
+Final Team PCB Schematic
+-
 <iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/Final_Schematic.pdf" width="100%" height="500px"></iframe>
+
+Final Team PCB Front and Back Cadence Design
+-
+<iframe src="vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/PCB.pdf" width="100%" height="500px"></iframe>
+
 
 Connectors
 -
