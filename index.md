@@ -32,7 +32,7 @@ Here, we would like to give future students some helpful tips that might help th
 
 **Resources**
 ---
-[Code Repository]
+[Code Repository](https://github.com/EGR-314-F23-TEAM-301/PIC)
 
 ## Appendices 
 
