@@ -41,3 +41,5 @@ Office hours will be your best friend. A lot of the course material will have yo
 **Lesson 10**
 -
 Spend the extra money on other tools that will help you on your assignments. Tools like a soldering kit will be a good start as you will spend a lot of time soldering components onto the team board. The Peralta labs can be busy on certain days leaving no tools available to you. 
+
+[Back to Home](index)
