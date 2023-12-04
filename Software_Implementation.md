@@ -35,8 +35,11 @@ The following images show the peripherals and pin GPIO structure utilized in the
 ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin_manager.png)
 ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin_module.png)
 
+**MQTT Topic Table**
+Below is our table summarizing all the published and subscribed messages for our topic.
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/mqtt.png)
 
-Changes to software design
+Changes to Software design
 -
 1. **Removed Humidity Sensor Subsystem**: The reason why the humidity sensor subsystem was removed from the final software implementation is due to one of the team members dropping the course. With this, the segment of the code that required a humidity sensor component was cut and left the team with more time to focus on coding the rest of the code.
 
