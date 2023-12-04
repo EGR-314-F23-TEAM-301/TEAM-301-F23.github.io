@@ -21,3 +21,5 @@ Team members - Choose your team members strategically. Pick people that you know
 **Tip 5**
 -
 Using resources - Use the resources that are available to you like the professor, teaching team, other groups, the engineering website. All of these resources are there to help you become successful. 
+
+[Back to Home](index)
