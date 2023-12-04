@@ -29,6 +29,13 @@ Our last interrupt service routine will serve as a countdown to the clock in the
 
 ![](vertopal_53e86d8e1b304e0fba1b8ab00a47e725/media/imageE.png)
 
+**MPLabX Peripherals**
+The following images show the peripherals and pin GPIO structure utilized in the MPLAB Code Configurator.
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Peripherals.png)
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin manager.png)
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin module.png)
+
+
 Changes to software design
 -
 1. **Removed Humidity Sensor Subsystem**: The reason why the humidity sensor subsystem was removed from the final software implementation is due to one of the team members dropping the course. With this, the segment of the code that required a humidity sensor component was cut and left the team with more time to focus on coding the rest of the code.
