@@ -32,8 +32,8 @@ Our last interrupt service routine will serve as a countdown to the clock in the
 **MPLabX Peripherals**
 The following images show the peripherals and pin GPIO structure utilized in the MPLAB Code Configurator.
 ![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Peripherals.png)
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin manager.png)
-![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin module.png)
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin_manager.png)
+![](vertopal_93f5e0ba1d8a4ce0ba4f85b38613e1ff/media/Pin_module.png)
 
 
 Changes to software design
